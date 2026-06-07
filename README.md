@@ -7,6 +7,6 @@ Dimana data science merupakan salah satu pertimbangan dalam menentukan arah dan 
 Di dalam repostory ini kita mempelajari penggunaan python sebagai bahasa utama di dalam Data Science di dalam pengolahan data, visualisasi grafiknya dan analisa yang sederhana sehingga dapat diharapkan bisa membantu dalam Data Science secara lebih baik lagi.
 
 List Pertemuan :
-1. Pertemuan 1 : Merupakan perkenalan Data Science. Membahasa definisi,peran, jenjang karir, CRISP-DM dan perkenalan penggunaan Google Colab dan GitHub. Link repostori : 
+1. Pertemuan 1 : Merupakan perkenalan Data Science. Membahasa definisi,peran, jenjang karir, CRISP-DM dan perkenalan penggunaan Google Colab dan GitHub. Link repostori : https://github.com/samuelbinsaraditya/data-science-2026/blob/main/Pertemuan1_SamuelBinsarAdityaSimamora_240401010275.ipynb
 2. 
 Terima kasih.
