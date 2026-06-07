@@ -9,4 +9,4 @@ Di dalam repostory ini kita mempelajari penggunaan python sebagai bahasa utama d
 List Pertemuan :
 1. Pertemuan 1 : Merupakan perkenalan Data Science. Membahasa definisi,peran, jenjang karir, CRISP-DM dan perkenalan penggunaan Google Colab dan GitHub. Link repostori : https://github.com/samuelbinsaraditya/data-science-2026/blob/main/Pertemuan1_SamuelBinsarAdityaSimamora_240401010275.ipynb
 2. 
-Terima kasih.
+Untuk dapat running secara lokal bisa mengikuti dokumentasi berikut https://research.google.com/colaboratory/local-runtimes.html. Sedangkan link untuk google collab nya adalah sebagai berikut https://drive.google.com/drive/folders/181VYY55D_Y4mD4gu3jl42yMyJd3PKs38?usp=sharing
