@@ -32,3 +32,12 @@ Tool dan Library yang digunakan
 9. Library Scikit-Learn : dari persiapan data hingga evaluasi model untuk Machine Learning
     
 Untuk bisa menjalankan notebook secara lokal bisa mengikuti dokumentasi berikut https://research.google.com/colaboratory/local-runtimes.html. Sedangkan link untuk google collab nya adalah sebagai berikut https://drive.google.com/drive/folders/181VYY55D_Y4mD4gu3jl42yMyJd3PKs38?usp=sharing
+
+KESIMPULAN UMUM
+    Pembelajaran dari sesi pertama sampai ketujuh adalah sebuah proses yang sistematis mengikuti standar CRISP-DM (Cross Industry Standard Process for Data Mining). DImana proses- prosesnya sepeti di bawha ini
+1. Data Science adalah sebuah bidang pembelajaran yang terdiri dari statistika, ilmu komputer yang menggunakan python sebagai bahasa pemrograman. Menggunakan google colab sebagai wadah penuisan code dan dipublikasikan menggunakan platform GitHub. Pentingnya untuk menguasai struktur data Python serta penggunaan librari dasar seperti Numpy dan Pandas.
+2. Tahap selanjutnya mempelajatri bagaimana Cleaning Data yang terdiri dari menangani missing value, duplikasi serta deteksi outliers.
+3. Mempelajari ekstrak data dari JSON dan REST API.
+4. Pembelajaran mengenai statistika deskriptif (mean, median, korelasi) dan visualisasi data, dengan menggunakan librari Matplotlib dan Seaborn untuk membuat grafik. Serta diharapkan mahasiswa dapat belajar mengenai data story telling dengan prinsip What? So What? Now what? untuk dapat menarik kesimpulan dari grafik yang sudah dibuat.
+5. Pembelajaran pemodelan Machine Learning  dimana ada tahap preprocessing (encoding data kategorikal, feature scalling dan membagi data menjadi training set dan test set)
+6. Penerapan Machine learning dengan algoritma Regresi Linear, dimana kita belajar untuk membangun model prediksi untuk nilai yang kontinu, serta cara evaluasi akurasi dengan menggunakan metrik MAE. RMSE dan R squared.
