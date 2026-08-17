@@ -14,6 +14,11 @@ List Pertemuan :
 5. Pertemuan 5 : Membahas visualisasi data dengan menggunakan librari Matplotlib dan seaborn, prinsip visualisasi data yang efektif, memilih visualisai yang efektif. Serta cara membaca grafik dan menarik insight dari sebuah grafik. Link repostori : https://github.com/samuelbinsaraditya/data-science-2026/blob/main/Pertemuan5_SamuelBinsarAdityaSimamora_240401010275.ipynb
 6.  Pertemuan 6 : Membahas persiapan data dimanaberfokus pada pre- proses sebelum pemodelan machine learning. Mencakup encoding data kategorikal, scaling normalization, kemudian training test split serta paramater nya. Link repostori nya : https://github.com/samuelbinsaraditya/data-science-2026/blob/main/Pertemuan6_SamuelBinsarAdityaSimamora_240401010275.ipynb
 7.  Pertemuan 7 : Membahas pengantar machine learning yaitu regresi linear. Fase pemodelan prediktif yang berfokus pada algoritma regresi linear yang terdiri dari konsep dasar, cara kerja sistematis hingga pemodelan dengan metode MAE, RMSE dan R-Squad. Link repostori : https://github.com/samuelbinsaraditya/data-science-2026/blob/main/Pertemuan7_SamuelBinsarAdityaSimamora_240401010275.ipynb
+8.  Pertemuan 9 : Membahas logistic regression, decision tree dan metrik evaluasi. Mempelajari pediksi kategori diskret, memahami cara kerja decision tree dalam membuat aturan bertingkat serta evaluasi performa kualifikasi memakai Confusion, accuracy, precision, recall dan F1 Score. Link repostori : 
+9.  Pertemuan 10 : Membahas Ensemble learning, random forest dan imbalanced dataset. Memakai ensemble dalam menggabungkan model-model agar hasil prediksi menjadi lebih akurat, kemudian dibangun model random forest. Link repostori :
+10.  Pertemuan 11 : membahasa K-Means, Hierarchical Clustering dan Elbow method. Data tanpa label dikelompokkan ke dalam klaster yang memiliki kesamaan, dan menentukan jumlah klaster menggunakan metode elbow. Link repostory :
+11.   Pertemuan 12 : Mempelajari dua metode untuk rekomendasi yakni Association Rules (pola pembelian barang sering dibeli bersamaan) dan content based (mencari kemiripan antar item). Juga mempelajari evaluasi hubungan antar item menggunakan metrik support, confidence, dan lift Link repostori :
+12.   Mempelajari Neural Network Sederhana, melatih nya dengan layer dense, Kemudian menggunakan TF-IDF untuk mengubah data teks menjadi representasi numerik agar bisa dilakukan analisa sentimen. Link repostori nya :
 
 Berikut adalah enviromental yang digunakan :
 1. Bahasa python
@@ -30,6 +35,8 @@ Tool dan Library yang digunakan
 7. Requests data library Rest API
 8. Json : untuk memproses, membaca, dan menulis data dalam format JSON
 9. Library Scikit-Learn : dari persiapan data hingga evaluasi model untuk Machine Learning
+10. sklearn.ensemble (RandomForestClassifier): Untuk algoritma Random Forest pada prediksi Churn.
+
     
 Untuk bisa menjalankan notebook secara lokal bisa mengikuti dokumentasi berikut https://research.google.com/colaboratory/local-runtimes.html. Sedangkan link untuk google collab nya adalah sebagai berikut https://drive.google.com/drive/folders/181VYY55D_Y4mD4gu3jl42yMyJd3PKs38?usp=sharing
 
